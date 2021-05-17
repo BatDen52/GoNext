@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f112b48c6e1f8e752a791a66c9e64751
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _NormalMap1: {fileID: 2800000, guid: 299913ef40d3cef4cbbf4aa412fe396f, type: 3}
+  - _DuDvMap1: {fileID: 2800000, guid: a1bbd6d250a8ba53997a5784a33157da, type: 3}
+  - _NormalMap2: {fileID: 2800000, guid: 299913ef40d3cef4cbbf4aa412fe396f, type: 3}
+  - _DuDvMap2: {fileID: 2800000, guid: a1bbd6d250a8ba53997a5784a33157da, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

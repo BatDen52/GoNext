@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuAndStartJason.unity
+    guid: 6248b9bd4759ab74bb6dcf24247acb7a
+  - enabled: 1
+    path: Assets/Scenes/PriestStart.unity
+    guid: dd0fefe3c0a721544bfaf7b70705591f
+  - enabled: 1
+    path: Assets/Scenes/PriestDialog_lvl1.unity
+    guid: 9c3270f2ed97e6844b13041e41c06cf4
+  - enabled: 1
+    path: Assets/Scenes/PriestDialog_lvl2.unity
+    guid: aba69a86bd0d4c6408bc9870c34b0771
+  - enabled: 1
+    path: Assets/Scenes/PriestDialog_lvl3.unity
+    guid: b9d1fa32d53afc548a5b14b025e4a43c
+  - enabled: 1
+    path: Assets/Scenes/PriestDialog_lvl4.unity
+    guid: c5fd5c572ac9c084f8ac9ae6b5d2c6b7
+  - enabled: 1
+    path: Assets/Scenes/PriestFog1.unity
+    guid: 9d30e894da326ac46b395028035ba6c6
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/JasonDialog_lvl1.unity
+    guid: 29712958d55966f4e863517bda7a19d6
+  - enabled: 1
+    path: Assets/Scenes/JasonDialog_lvl2.unity
+    guid: 3f67185ecfbe2aa44ab54ebeeead2f8e
+  - enabled: 1
+    path: Assets/Scenes/JasonFog1.unity
+    guid: bcbfe4f70b3601345a0ab70fea0acd6e
+  - enabled: 1
+    path: Assets/Scenes/BlogerDialog_lvl1.unity
+    guid: f3359ae220aacec46a518de6042584a9
+  - enabled: 1
+    path: Assets/Scenes/BlogerDialog_lvl2.unity
+    guid: 5a1d2b6d6524d4f45a71c655cd84ad83
+  - enabled: 1
+    path: Assets/Scenes/BlogerDialog_lvl3.unity
+    guid: 981bcf1c943bef948acbc530352bf287
+  - enabled: 1
+    path: Assets/Scenes/BlogerDialog_lvl4.unity
+    guid: c85e00a90c0d1fa4ebc3d355b65373e1
+  - enabled: 1
+    path: Assets/Scenes/BlogerDialog_lvl5.unity
+    guid: f6850d202376810489b927710ee14cf8
+  - enabled: 1
+    path: Assets/Scenes/BlogerFog4-5.unity
+    guid: 4811326db79de0c46b6eaa74db7a8fed
+  - enabled: 1
+    path: Assets/Scenes/BlogerStart.unity
+    guid: 1c6a8e5e9bfcb2c42be4352ba74c9022
+  - enabled: 1
+    path: Assets/Scenes/ManagerDialog_lvl1.unity
+    guid: 61726ba5ec689514bb393bde066f6d85
+  - enabled: 1
+    path: Assets/Scenes/ManagerDialog_lvl2.unity
+    guid: 99bf5584a6d192143ae15dd7f11cbda1
+  - enabled: 1
+    path: Assets/Scenes/ManagerDialog_lvl3.unity
+    guid: a6d7253b095fa4849bfc128bf76c0879
+  - enabled: 1
+    path: Assets/Scenes/ManagerFog2-3.unity
+    guid: 6c3b82009c940b64fa8f3dc11a70e887
+  - enabled: 1
+    path: Assets/Scenes/ManagerStart.unity
+    guid: c3284f1dee956ea438a2f6ecf1e019f5
+  - enabled: 0
+    path: Assets/Scenes/JasonFog2.unity
+    guid: eea0f9cdce7b81b4499c0fe47a07ce29
+  - enabled: 1
+    path: Assets/Scenes/OlegDialog_lvl1.unity
+    guid: f1264e874153d1847b1c1a8db01ad2dc
+  - enabled: 1
+    path: Assets/Scenes/OlegDialog_lvl2.unity
+    guid: 90e6ae98cbb94de4487ef958714b20ce
+  - enabled: 1
+    path: Assets/Scenes/OlegDialog_lvl3.unity
+    guid: 468de0e5c2eefa846bf8a92febc37367
+  - enabled: 1
+    path: Assets/Scenes/OlegDialog_lvl4.unity
+    guid: 3cefa877eda04334abdc4435c106f975
+  - enabled: 1
+    path: Assets/Scenes/OlegDialog_lvl5.unity
+    guid: 665b6bf10e85b6d4bbfb06804b3845ff
+  - enabled: 1
+    path: Assets/Scenes/OlegDialog_lvl6.unity
+    guid: 6ead6336e2dc76645b7147d8a145d6ae
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 5515aeec7e2ea7840b74e6727181d235
+  - enabled: 1
+    path: Assets/Scenes/OlegStart.unity
+    guid: 1dc41d5e1e5c10640a3047e3d7b8686c
+  m_configObjects: {}
